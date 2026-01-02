@@ -13,4 +13,7 @@ int main(){
   }
 
   cout<<"The sum is:"<<count;
+  
+  return 0;
+  
 }
